@@ -1,0 +1,17 @@
+C:\Franky_Zone\Projects\SipTranslatorClient\bin\Debug\net8.0-windows\SipTranslatorClient.exe
+C:\Franky_Zone\Projects\SipTranslatorClient\bin\Debug\net8.0-windows\SipTranslatorClient.deps.json
+C:\Franky_Zone\Projects\SipTranslatorClient\bin\Debug\net8.0-windows\SipTranslatorClient.runtimeconfig.json
+C:\Franky_Zone\Projects\SipTranslatorClient\bin\Debug\net8.0-windows\SipTranslatorClient.dll
+C:\Franky_Zone\Projects\SipTranslatorClient\bin\Debug\net8.0-windows\SipTranslatorClient.pdb
+C:\Franky_Zone\Projects\SipTranslatorClient\bin\Debug\net8.0-windows\OzekiSDK.dll
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTranslatorClient.csproj.AssemblyReference.cache
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTranslatorClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTranslatorClient.AssemblyInfoInputs.cache
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTranslatorClient.AssemblyInfo.cs
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTranslatorClient.csproj.CoreCompileInputs.cache
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTrans.1D7B5B75.Up2Date
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTranslatorClient.dll
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\refint\SipTranslatorClient.dll
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTranslatorClient.pdb
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\SipTranslatorClient.genruntimeconfig.cache
+C:\Franky_Zone\Projects\SipTranslatorClient\obj\Debug\net8.0-windows\ref\SipTranslatorClient.dll
