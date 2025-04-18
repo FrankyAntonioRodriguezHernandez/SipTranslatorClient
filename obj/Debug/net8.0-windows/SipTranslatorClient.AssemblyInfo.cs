@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SipTranslatorClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dbfedab95706673459a14a6b0885532040c12b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SipTranslatorClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SipTranslatorClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

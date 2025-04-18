@@ -30,7 +30,7 @@ namespace SIPTranslationClient
             {
                 Console.WriteLine("Inicializando softphone...");
                 
-                // Usa tu IP local (reemplaza con tu IP real)
+                // (reemplazaz con tu IP real, aqui uso el de mi laptop)
                 _softPhone = SoftPhoneFactory.CreateSoftPhone(IPAddress.Parse("192.168.29.25"), 10000, 20000);
                 
                 var account = new SIPAccount(
@@ -114,7 +114,6 @@ namespace SIPTranslationClient
             
             try
             {
-                // Solución universal para audio
                 dynamic audioSource = Activator.CreateInstance(Type.GetTypeFromProgID("Ozeki.Audio.Source"));
                 _connector.Connect(audioSource, _audioSender);
                 _audioSender.AttachToCall(_call);
